@@ -1,0 +1,63 @@
+{
+  "//": "BR Item Shop Config",
+  "daily1": {
+    "itemGrants": [
+      "AthenaCharacter:CID_125_Athena_Commando_M_TacticalWoodland"
+    ],
+    "price": 1500
+  },
+  "daily2": {
+    "itemGrants": [
+      "AthenaCharacter:CID_175_Athena_Commando_M_Celestial"
+    ],
+    "price": 1500
+  },
+  "daily3": {
+    "itemGrants": [
+      "AthenaDance:EID_TakeTheElf"
+    ],
+    "price": 200
+  },
+  "daily4": {
+    "itemGrants": [
+      "AthenaBackpack:Backpack_GarageBand_Mic"
+    ],
+    "price": 1200
+  },
+  "featured1": {
+    "itemGrants": [
+      "AthenaCharacter:CID_108_Athena_Commando_M_Fishhead"
+    ],
+    "price": 2000
+  },
+  "featured2": {
+    "itemGrants": [
+      "AthenaCharacter:CID_009_Athena_Commando_M"
+    ],
+    "price": 800
+  },
+  "featured3": {
+    "itemGrants": [
+      "AthenaDance:EID_GetFunky"
+    ],
+    "price": 500
+  },
+  "featured4": {
+    "itemGrants": [
+      "AthenaBackpack:BID_067_GumshoeFemale"
+    ],
+    "price": 1500
+  },
+  "featured5": {
+    "itemGrants": [
+      "AthenaGlider:Glider_ID_098_Sup"
+    ],
+    "price": 500
+  },
+  "featured6": {
+    "itemGrants": [
+      "AthenaPickaxe:Pickaxe_ID_184_DarkShaman"
+    ],
+    "price": 800
+  }
+}

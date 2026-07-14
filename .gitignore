@@ -1,0 +1,63 @@
+# Compiled binaries
+*.dll
+*.exe
+*.pdb
+*.lib
+*.so
+*.dylib
+
+# Build outputs
+x64/
+x86/
+Debug/
+Release/
+[Bb]in/
+[Oo]bj/
+[Dd]ebug/
+[Rr]elease/
+out/
+build/
+
+# Gameserver compiled folder
+Gameserver compilé/
+
+# Visual Studio
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Node
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+package-lock.json
+
+# OS files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+.DS_Store
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# Env / secrets
+.env
+.env.*
+Backend/tokenManager/tokens.json
+
+# SSL certs (keep examples only)
+Backend/ssl/*.key
+
+# Archives
+*.zip
+*.rar
+*.7z
+*.tar.gz

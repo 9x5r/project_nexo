@@ -1,0 +1,382 @@
+{
+  "battleBundleOfferId": "2719FD6E4F264293B3B8B4842F272FCB",
+  "battlePassOfferId": "B1E16EBD418B6892081A9C990F431AD4",
+  "tierOfferId": "C6CAE9BA435CF1B0BE4BE7865B9F4E0F",
+  "paidRewards": [
+    {
+      "Token:athenaseasonxpboost": 50,
+      "Token:athenaseasonfriendxpboost": 60,
+      "AthenaCharacter:cid_A_287_Athena_Commando_M_LoneWolf": 1,
+      "AthenaCharacter:cid_A_292_Athena_Commando_F_ExoSuit": 1
+    },
+    {},
+    {
+      "AthenaSkyDiveContrail:trails_id_133_lonewolf": 1
+    },
+    {},
+    {
+      "AthenaGlider:glider_id_328_exosuitfemale": 1
+    },
+    {},
+    {
+      "AthenaItemWrap:wrap_425_exosuit": 1
+    },
+    {
+      "AthenaMusicPack:musicpack_115_motorcyclist": 1
+    },
+    {},
+    {
+      "AthenaPickaxe:pickaxe_id_712_exosuitfemale1h": 1
+    },
+    {
+      "BannerToken:bannertoken_001_s19": 1
+    },
+    {
+      "Currency:mtxgiveaway": 100
+    },
+    {},
+    {
+      "AthenaGlider:glider_id_310_buffllamamale": 1
+    },
+    {
+      "Token:athenatoken_brs19_umbrellaselection_01_token": 1
+    },
+    {
+      "AthenaLoadingScreen:lsid_381_buffllama": 1
+    },
+    {
+      "AthenaDance:eid_lifted": 1
+    },
+    {},
+    {
+      "Currency:mtxgiveaway": 100
+    },
+    {
+      "AthenaCharacter:cid_A_288_Athena_Commando_M_BuffLlama": 1
+    },
+    {
+      "AthenaDance:emoji_s19_buffllama": 1
+    },
+    {
+      "AthenaDance:eid_chanelling": 1
+    },
+    {},
+    {
+      "AthenaSkyDiveContrail:trails_id_135_buffllama": 1
+    },
+    {
+      "BannerToken:bannertoken_002_s19": 1
+    },
+    {
+      "Currency:mtxgiveaway": 100
+    },
+    {
+      "AthenaGlider:glider_id_332_parallelcomicmale": 1
+    },
+    {},
+    {
+      "AthenaLoadingScreen:lsid_386_parallel": 1
+    },
+    {
+      "AthenaPickaxe:pickaxe_id_718_parallelcomicmale": 1
+    },
+    {
+      "BannerToken:bannertoken_003_s19": 1
+    },
+    {
+      "Currency:mtxgiveaway": 100
+    },
+    {},
+    {
+      "AthenaDance:spid_336_parallel": 1
+    },
+    {
+      "Token:athenatoken_brs19_umbrellaselection_02_token": 1
+    },
+    {
+      "AthenaGlider:glider_id_331_motorcyclistfemale": 1
+    },
+    {
+      "AthenaDance:emoji_s19_motorcyclist": 1
+    },
+    {},
+    {
+      "Currency:mtxgiveaway": 100
+    },
+    {
+      "AthenaCharacter:cid_A_293_Athena_Commando_M_ParallelComic": 1
+    },
+    {
+      "AthenaDance:spid_19_parallelcomic": 1
+    },
+    {
+      "AthenaBackpack:bid_916_parallelcomicmale": 1
+    },
+    {},
+    {
+      "AthenaLoadingScreen:lsid_392_parallel": 1
+    },
+    {
+      "AthenaItemWrap:wrap_426_parallel": 1
+    },
+    {
+      "AthenaPickaxe:pickaxe_id_718_parallelcomicmale": 1
+    },
+    {
+      "Currency:mtxgiveaway": 100
+    },
+    {},
+    {
+      "AthenaLoadingScreen:lsid_387_motorcyclist": 1
+    },
+    {
+      "Token:athenatoken_brs19_umbrellaselection_03_token": 1
+    },
+    {
+      "AthenaDance:eid_gumball": 1
+    },
+    {
+      "AthenaBackpack:bid_913_gumballmale": 1
+    },
+    {},
+    {
+      "Currency:mtxgiveaway": 100
+    },
+    {
+      "AthenaCharacter:cid_A_289_Athena_Commando_M_Gumball": 1
+    },
+    {
+      "AthenaLoadingScreen:lsid_388_gumball": 1
+    },
+    {
+      "AthenaPickaxe:pickaxe_id_713_gumballmale": 1
+    },
+    {
+      "AthenaDance:emoji_s19_gumball": 1
+    },
+    {
+      "AthenaDance:eid_finale": 1
+    },
+    {},
+    {
+      "Currency:mtxgiveaway": 100
+    },
+    {
+      "AthenaSkyDiveContrail:trails_id_130_exosuit": 1
+    },
+    {
+      "AthenaLoadingScreen:lsid_389_island": 1
+    },
+    {
+      "AthenaMusicPack:musicpack_114_islandnomad": 1
+    },
+    {
+      "AthenaGlider:glider_id_330_lonewolfmale": 1
+    },
+    {
+      "AthenaPickaxe:pickaxe_id_715_lonewolfmale": 1
+    },
+    {},
+    {
+      "Currency:mtxgiveaway": 100
+    },
+    {
+      "AthenaDance:eid_handsup": 1
+    },
+    {
+      "Token:athenatoken_brs19_umbrellaselection_04_token": 1
+    },
+    {
+      "AthenaGlider:glider_id_331_motorcyclistfemale": 1
+    },
+    {
+      "BannerToken:bannertoken_005_s19": 1
+    },
+    {
+      "AthenaBackpack:bid_914_islandnomadfemale": 1
+    },
+    {},
+    {
+      "AthenaCharacter:cid_A_290_Athena_Commando_F_Motorcyclist": 1,
+      "CosmeticVariantToken:vtid_377_islandnomad_styleb": 1
+    }
+  ],
+  "freeRewards": [
+    {
+      "AthenaSkyDiveContrail:trails_id_mehndi": 1
+    },
+    {
+      "AthenaDance:eid_lifted": 1
+    },
+    {},
+    {
+      "Currency:mtxgiveaway": 100
+    },
+    {},
+    {
+      "AthenaBackpack:bid_915_exosuitfemale": 1
+    },
+    {},
+    {},
+    {
+      "AthenaLoadingScreen:lsid_390_exosuit": 1
+    },
+    {},
+    {},
+    {},
+    {
+      "AthenaDance:emoji_s19_exosuit": 1
+    },
+    {},
+    {},
+    {},
+    {},
+    {
+      "AthenaItemWrap:wrap_421_buffllama": 1
+    },
+    {},
+    {},
+    {},
+    {},
+    {
+      "AthenaBackpack:bid_912_gumballmale": 1
+    },
+    {},
+    {},
+    {},
+    {},
+    {
+      "AthenaDance:spid_339_buffllama": 1
+    },
+    {},
+    {},
+    {},
+    {},
+    {
+      "AthenaDance:eid_finale": 1
+    },
+    {},
+    {},
+    {},
+    {},
+    {
+      "AthenaPickaxe:pickaxe_id_711_exosuitfemale1h": 1
+    },
+    {},
+    {},
+    {},
+    {},
+    {
+      "AthenaSkyDiveContrail:trails_id_130_exosuit": 1
+    },
+    {},
+    {},
+    {},
+    {},
+    {
+      "AthenaMusicPack:musicpack_115_buffllama": 1
+    },
+    {},
+    {},
+    {},
+    {},
+    {
+      "Currency:mtxgiveaway": 100
+    },
+    {},
+    {},
+    {},
+    {},
+    {
+      "AthenaLoadingScreen:lsid_392_island": 1
+    },
+    {},
+    {},
+    {},
+    {},
+    {
+      "AthenaBackpack:bid_914_islandnomadfemale": 1
+    },
+    {},
+    {},
+    {},
+    {},
+    {
+      "BannerToken:bannertoken_006_s19": 1
+    },
+    {},
+    {},
+    {},
+    {},
+    {
+      "AthenaGlider:glider_id_331_motorcyclistfemale": 1
+    },
+    {},
+    {},
+    {
+      "Token:athena_s19_nobattlebundleoption_token": 1
+    },
+    {},
+    {
+      "BannerToken:bannertoken_007_s19": 1
+    },
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {
+      "AthenaDance:spid_336_gumball": 1
+    },
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {
+      "AthenaItemWrap:wrap_422_gumball": 1
+    },
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {
+      "Currency:mtxgiveaway": 100
+    },
+    {}
+  ],
+  "offerMap": {
+    "9CC86E4644EC0926E8671889EB4A1B61": 0,
+    "2E4B9D3E411F2CA6F7F7E8BAAD9348FF": 5,
+    "8566D265454FFB78F09DA4BEA72898AF": 9,
+    "1082CE704594B349EEB2B20433548CE6": 1,
+    "68DFF99B43FAF85BEF46C59A36A01F66": 2,
+    "D554258C41E2FEA456840BB0AD433FF8": 4,
+    "C06BD0C946D827401F97CD99F6E8E305": 6,
+    "F31428EB45229CB488D247AB24F5886A": 7,
+    "BC5FF1BB4183D236EB7725A5E35C67D9": 8,
+    "0A1304E4407F355DD0E4859563AB92B4": 10,
+    "6F1D037A4C27BA30FEF184848F19B590": 11,
+    "7914F7C14D69F18142D78B93847D0D8BB": 12,
+    "207BC6AB4A8722EAFA07CFB0C1D00104": 13,
+    "F5D4D5F9444A6A13A0EB6C9D38741A6E": 14,
+    "E7CD6E6041B64E5594F01A82F7791F9C": 15,
+    "870EEBFD4D067D8337979B94B7FE6E96": 16,
+    "E6C86D3E465820600CF4F99D089E85AB": 17,
+    "7981F39E493BD0B5D0E53D904C05BC87": 18,
+    "83BEC81846AA1F6456B76A821E891E58": 19,
+    "2FC9E01B4C541CDBE21947B06CE9617D": 20,
+    "112EA58C415D5D8F64B658B14663B5DB": 21,
+    "4AF68E2A48949BFED69195BF6D4A98D7": 22,
+    "4C46F35C41C713C95F0BAF821451305F": 23,
+    "FA94555640326BFC23FF8D91A66EB420": 24,
+    "257483914A4857BA03CC728C0E0095B4": 25,
+    "2EB6F58041F2F98EB181F492B8CDFC2B": 26,
+    "3F2FCBBF4B693141C79C0BAE3100F5F5": 27,
+    "943BA1094DB48A0F0A85EB9EEA58D241": 28
+  }
+}

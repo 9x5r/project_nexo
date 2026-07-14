@@ -1,0 +1,68 @@
+{
+    "contentType": "collection",
+    "contentId": "motd-default-collection",
+    "tcId": "634e8e85-e2fc-4c68-bb10-93604cf6605f",
+    "contentItems": [
+      {
+        "contentType": "content-item",
+        "contentId": "46874c56-0973-4cbe-ac98-b580c5b36df5",
+        "tcId": "61fb3dd8-f23d-45cc-9058-058ab223ba5c",
+        "contentFields": {
+          "body": {
+            "ar": "Use the Pulse Rifle to defend against the Invasion, detect threats with the Recon Scanner, take down Saucers with the Rail Gun, or vaporize enemies with the Kymera Ray Gun!",
+            "en": "Use the Pulse Rifle to defend against the Invasion, detect threats with the Recon Scanner, take down Saucers with the Rail Gun, or vaporize enemies with the Kymera Ray Gun!",
+            "de": "Use the Pulse Rifle to defend against the Invasion, detect threats with the Recon Scanner, take down Saucers with the Rail Gun, or vaporize enemies with the Kymera Ray Gun!",
+            "es": "Use the Pulse Rifle to defend against the Invasion, detect threats with the Recon Scanner, take down Saucers with the Rail Gun, or vaporize enemies with the Kymera Ray Gun!",
+            "es-419": "Use the Pulse Rifle to defend against the Invasion, detect threats with the Recon Scanner, take down Saucers with the Rail Gun, or vaporize enemies with the Kymera Ray Gun!",
+            "fr": "Utilisez le Fusil à impulsion pour vous défendre contre l'Invasion, détectez les menaces avec le Scanner de reconnaissance, abattez les Soucoupes avec le Canon rail, ou vaporisez vos ennemis avec le Fusil à rayons de Kymera !",
+            "it": "Use the Pulse Rifle to defend against the Invasion, detect threats with the Recon Scanner, take down Saucers with the Rail Gun, or vaporize enemies with the Kymera Ray Gun!",
+            "ja": "Use the Pulse Rifle to defend against the Invasion, detect threats with the Recon Scanner, take down Saucers with the Rail Gun, or vaporize enemies with the Kymera Ray Gun!",
+            "ko": "Use the Pulse Rifle to defend against the Invasion, detect threats with the Recon Scanner, take down Saucers with the Rail Gun, or vaporize enemies with the Kymera Ray Gun!",
+            "pl": "Use the Pulse Rifle to defend against the Invasion, detect threats with the Recon Scanner, take down Saucers with the Rail Gun, or vaporize enemies with the Kymera Ray Gun!",
+            "pt-BR": "Use the Pulse Rifle to defend against the Invasion, detect threats with the Recon Scanner, take down Saucers with the Rail Gun, or vaporize enemies with the Kymera Ray Gun!",
+            "ru": "Use the Pulse Rifle to defend against the Invasion, detect threats with the Recon Scanner, take down Saucers with the Rail Gun, or vaporize enemies with the Kymera Ray Gun!",
+            "tr": "Use the Pulse Rifle to defend against the Invasion, detect threats with the Recon Scanner, take down Saucers with the Rail Gun, or vaporize enemies with the Kymera Ray Gun!"
+          },
+          "entryType": "Website",
+          "image": [
+            {
+              "width": 1920,
+              "height": 1080,
+              "url": "https://static1.dualshockersimages.com/wordpress/wp-content/uploads/2021/06/Fortnite-S7-Weapons.jpg"
+            }
+          ],
+          "tabTitleOverride": "NEW HIGH-TECH WEAPONS",
+          "tileImage": [
+            {
+              "width": 1024,
+              "height": 512,
+              "url": "https://github.com/lapin2266/skibidi/blob/main/Gemini_Generated_Image_ac4y70ac4y70ac4y.png?raw=true"
+            }
+          ],
+          "title": {
+            "ar": "NEW HIGH-TECH WEAPONS",
+            "en": "NEW HIGH-TECH WEAPONS",
+            "de": "NEW HIGH-TECH WEAPONS",
+            "es": "NEW HIGH-TECH WEAPONS",
+            "es-419": "NEW HIGH-TECH WEAPONS",
+            "fr": "NOUVELLES ARMES DE HAUTE TECHNOLOGIE",
+            "it": "NEW HIGH-TECH WEAPONS",
+            "ja": "NEW HIGH-TECH WEAPONS",
+            "ko": "NEW HIGH-TECH WEAPONS",
+            "pl": "NEW HIGH-TECH WEAPONS",
+            "pt-BR": "NEW HIGH-TECH WEAPONS",
+            "ru": "NEW HIGH-TECH WEAPONS",
+            "tr": "NEW HIGH-TECH WEAPONS"
+          },
+          "videoAutoplay": false,
+          "videoLoop": false,
+          "videoMute": false,
+          "videoStreamingEnabled": false,
+          "websiteButtonText": "Galaxy Discord",
+          "websiteURL": "https://discord.gg/4xpvQuJA"
+        },
+        "contentHash": "reloadbackendcontenthashtylawin",
+        "contentSchemaName": "MotdWebsiteNewsWithVideo"
+        }
+    ]
+}
