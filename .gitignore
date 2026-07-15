@@ -6,6 +6,12 @@
 *.so
 *.dylib
 
+# Keep Gameserver build dependencies
+!Gameserver/Erbium/libcurl/libcurl.lib
+!Gameserver/Erbium/libcurl/zlib.lib
+!Gameserver/Erbium/minhook.lib
+!Gameserver/ErbiumClient/minhook.lib
+
 # Build outputs
 x64/
 x86/
